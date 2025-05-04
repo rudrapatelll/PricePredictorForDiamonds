@@ -9,7 +9,7 @@ First, you will create a Shiny application and deploy it on Rstudio's servers.
 Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 Click the Below Link for the Application.
-[https://bkarmay.shinyapps.io/PricePredictorForDiamonds/](https://rudrapatelll.shinyapps.io/Shiny_Application/)
+https://rudrapatelll.shinyapps.io/Shiny_Application/
 
 Click the Below Link for the Rpubs presentation.
 http://rpubs.com/bkarmay/338599
