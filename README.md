@@ -12,5 +12,5 @@ Click the Below Link for the Application.
 https://rudrapatelll.shinyapps.io/Shiny_Application/
 
 Click the Below Link for the Rpubs presentation.
-http://rpubs.com/bkarmay/338599
+https://rpubs.com/ruddy_2601/Diamonds_Price_Prediction
 
